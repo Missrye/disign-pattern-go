@@ -1,4 +1,4 @@
-package com.deepocean.algorithm;
+package com.deepocean.algorithm.old;
 
 public class BinaryTreeDemo {
     // 二叉树的下一个节点

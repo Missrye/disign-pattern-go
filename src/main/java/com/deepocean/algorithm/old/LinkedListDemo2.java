@@ -1,4 +1,4 @@
-package com.deepocean.algorithm;
+package com.deepocean.algorithm.old;
 
 public class LinkedListDemo2 {
     public static void main(String []args) {

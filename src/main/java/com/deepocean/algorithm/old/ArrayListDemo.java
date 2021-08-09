@@ -1,4 +1,4 @@
-package com.deepocean.algorithm;
+package com.deepocean.algorithm.old;
 
 import java.util.ArrayList;
 import java.util.Arrays;
